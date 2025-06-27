@@ -11,7 +11,9 @@ Este é um projeto **FullStack** para cadastro, listagem e exclusão de usuário
 
 ## 🧩 Tecnologias Utilizadas
 
-### 🔵 Front-End (React + Vite)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [React Router DOM](https://reactrouter.com/)
@@ -21,11 +23,14 @@ Este é um projeto **FullStack** para cadastro, listagem e exclusão de usuário
 - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 ### 🟢 Back-End (Node.js + Express)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Prisma ORM](https://www.prisma.io/)
 - [MongoDB](https://www.mongodb.com/)
 - [CORS](https://expressjs.com/en/resources/middleware/cors.html)
+
+
 
 ---
 
